@@ -118,7 +118,7 @@ header{
 .fisrt__cart_TextBlock_text{
     display: flex;
 
-    /* position: relative; */
+    position: relative;
     right: 143px;
     top: 110px;
     flex-direction: column;
